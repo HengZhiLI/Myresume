@@ -1,0 +1,163 @@
+body{
+    font-family: "Microsoft YaHei";
+    color: #000;
+    font-size: 12px;
+    text-align: center;
+}
+.main_con{
+
+    width: 630px;
+    height: 960px;
+    background-color: #dae6f2;
+    margin: 0 auto;
+}
+
+.left_con{
+
+    width: 30px;
+    height: 960px;
+    background-color: dodgerblue;
+
+}
+
+.right_con
+{
+    width: 10px;
+    height: 960px;
+    background-color: dodgerblue;
+
+}
+
+.top_con{
+
+    width: 630px;
+    height: 190px;
+    /*background-color: #efefef;*/
+}
+
+.top_con .top_img{
+
+    width: 190px;
+    height: 28px;
+    /*margin-left: -10px;*/
+    margin-top: 70px;
+}
+
+.top_con .top_xinxi1{
+
+    margin-top: 100px;
+    margin-left: -100px;
+    text-align: left;
+    line-height: 20px;
+
+}
+
+.top_con .top_xinxi2{
+
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: left;
+    line-height: 20px;
+
+}
+
+.top_con .top_right_img{
+
+    width: 88px;
+    height: 123px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.Work_experience{
+
+    width: 630px;
+    height: 60px;
+
+}
+
+.Work_img{
+
+    width: 190px;
+    height: 28px;
+    /*margin-left: -10px;*/
+}
+
+.Work_experience .company1{
+
+    margin-left: -100px;
+    margin-top: 35px;
+    color: deepskyblue;
+    font-weight: bold;
+}
+
+.Work_experience .position1{
+
+    margin-left: 50px;
+    margin-top: 35px;
+    color: deepskyblue;
+    font-weight: bold;
+    /*display: block;*/
+
+}
+
+.aaa{
+
+    width: 100%;
+    /*background-color: deepskyblue;*/
+
+}
+
+.aaa p{
+
+    margin-left: 110px;
+    line-height: 20px;
+    margin-right: 100px;
+
+}
+
+.Education_background{
+
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+.Education_background .Education1{
+
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: left;
+    line-height: 20px;
+
+}
+
+.Education_background .Education2{
+
+    margin-top: 5px;
+    margin-left: -100px;
+    text-align: left;
+    line-height: 20px;
+
+}
+
+.assessment{
+
+    width: 100%;
+    /*margin-top: 30px;*/
+
+}
+
+.assessment .assessment_img{
+
+    margin-top: 20px;
+}
+
+.bbb{
+
+    margin-top: 150px;
+    margin-left: -300px;
+    /*text-align: left;*/
+    line-height: 20px;
+
+}
